@@ -32,6 +32,7 @@ Usando el archivo UFO-Nov-Dic-2014.psv
     + Describe estadísticamente (max, min, mean) los tiempos de duración de la observación
     
 *Bash programming*
+
 La mayor parte del tiempo usaremos el shell , para hacer pequeños scripts , pero existen ocasiones en las
 cuales es necesario tratar al shell como un lenguaje de programación
 
