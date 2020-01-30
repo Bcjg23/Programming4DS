@@ -5,6 +5,7 @@
 **Problema 1**
 
 Crea un archivo llamado problema-1.sh
+
 En una línea de bash :
    1. Descarga el libro de The Time Machine de H. G. Wells ,
    2. Remover el encabezado (desde la primera línea hasta la línea que contiene PROJECT GUTENBERG EBOOK THE TIME MACHINE *** START OF THIS ***
@@ -22,14 +23,15 @@ con el número.
 **Problema 2**
 
 Usando el archivo UFO-Nov-Dic-2014.psv
-    • ¿Cuántos avistamientos por estado hay? (Guárdalo en el archivo problema-2a.sh )
-    • ¿Cuántos avistamientos no tienen forma de esferoide? (Guárdalo en el archivo problema-3a.sh )
+    1. ¿Cuántos avistamientos por estado hay? (Guárdalo en el archivo problema-2a.sh )
+    2. ¿Cuántos avistamientos no tienen forma de esferoide? (Guárdalo en el archivo problema-3a.sh )
    
 **Problema 3**
 
 Guárdalo en el archivo problema-3.sh
+
 Usando el archivo UFO-Nov-Dic-2014.psv
-    + Describe estadísticamente (max, min, mean) los tiempos de duración de la observación
+   1. Describe estadísticamente (max, min, mean) los tiempos de duración de la observación
     
 *Bash programming*
 
