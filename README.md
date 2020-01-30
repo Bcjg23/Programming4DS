@@ -22,8 +22,8 @@ con el número.
 **Problema 2**
 
 Usando el archivo UFO-Nov-Dic-2014.psv
-   • ¿Cuántos avistamientos por estado hay? (Guárdalo en el archivo problema-2a.sh )
-   • ¿Cuántos avistamientos no tienen forma de esferoide? (Guárdalo en el archivo problema-3a.sh )
+    • ¿Cuántos avistamientos por estado hay? (Guárdalo en el archivo problema-2a.sh )
+    • ¿Cuántos avistamientos no tienen forma de esferoide? (Guárdalo en el archivo problema-3a.sh )
    
 **Problema 3**
 
